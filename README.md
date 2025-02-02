@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to **SLOC++**, a command-line tool for analyzing C/C++ source files. This application counts lines of code (LOC), comments, and blank lines, providing insights into software complexity and documentation practices. It supports single files and entire directories, offering flexible sorting options for results.
+Welcome to **SLOC**, a command-line tool for analyzing C/C++ source files. This application counts single lines of code (SLOC), comments, and blank lines, providing insights into software complexity and documentation practices. It supports single files and entire directories, offering flexible sorting options for results.
 
 ## Features
 - Processes **C/C++ source files** (`.c`, `.cpp`, `.h`, `.hpp`)
