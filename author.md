@@ -8,11 +8,6 @@ In this assignment, we've designed and developed a powerful terminal application
 
 - Nome: Bianca Maciel Medeiros e Marina Medeiros Araujo Leite
 - Email: *<bianca.medeiros.701@ufrn.edu.br e marinamaleite@gmail.com>*
-- Turma: DIM0176
-
-# Problems found or limitations
-
-We had trouble finding a way to make the program recognize relative paths of files.
 
 # Compiling and Runnig
 
