@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -pedantic -rdynamic CMakeFiles/sloc.dir/src/classify.cpp.o CMakeFiles/sloc.dir/src/directoryManager.cpp.o CMakeFiles/sloc.dir/src/input.cpp.o CMakeFiles/sloc.dir/src/main.cpp.o CMakeFiles/sloc.dir/src/printing.cpp.o -o sloc 

@@ -1,0 +1,3 @@
+/home/marina/Documents/portifolio/SLOC/build/CMakeFiles/sloc.dir
+/home/marina/Documents/portifolio/SLOC/build/CMakeFiles/edit_cache.dir
+/home/marina/Documents/portifolio/SLOC/build/CMakeFiles/rebuild_cache.dir
