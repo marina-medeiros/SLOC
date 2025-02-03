@@ -20,7 +20,7 @@ namespace sloc {
         std::string stringTotalLines;
     };
 
-    //Deve preencher todos os SourceFiles da lista criada pelo directoryManager
+    //Classifies all the SourceFiles from the list created by directoryManager
     class Classify {
     public:
         static inline std::string ltrim(const std::string &s);

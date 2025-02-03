@@ -56,14 +56,14 @@ namespace sloc {
     /*!
     * Verifies the action specified by the argument.
     *
-    * @param argumento The argument to be verified.
+    * @param argument The argument to be verified.
     *
     * @return The index of the action if it matches one of the options, otherwise -1.
     */
-    int verifyAction(char* argumento){
+    int verifyAction(char* argument){
         std::array< std::string, 3 > options {"-r", "-s","-S"};
          for (int i = 0; i < 3; ++i) {
-            if (options[i] == argumento) {
+            if (options[i] == argument) {
                 return i; 
             }
         }
